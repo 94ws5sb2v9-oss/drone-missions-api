@@ -55,6 +55,5 @@ make run
 make stop
 ```
 
-## Автор
 
 
